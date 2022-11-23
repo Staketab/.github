@@ -22,6 +22,6 @@ Staketab team is engaged in professional validation in various blockchain networ
 [site-docs]: https://docs.staketab.com/
 [site-minadocs]: https://minadocs.staketab.com/
 [sui-explorer]: https://suiscan.xyz/
-[mina-explorer]: https://mina.staketab.com/
+[mina-explorer]: https://minascan.io/
 [git]: https://github.com/Staketab
 [twitter]: https://twitter.com/staketab
