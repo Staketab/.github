@@ -12,7 +12,7 @@ Staketab team is engaged in professional validation in various blockchain networ
 | [Node services][site-services] | Services for Cosmos based networks. Snapshots, guides, tools, node installers, public RPC, etc. |
 | Explorers |
 | [Mina Explorer][mina-explorer] | Block Explorer and Analytics Platform for Mina with ZK-proof mechanism. |
-| [SUI Explorer][sui-explorer] | Block Explorer and Analytics Platform for Sui |
+| [SUI Explorer][sui-explorer] | Feature rich Explorer and Analytics Platform for Sui. |
 | Docs |
 | [How to stake][site-docs] | Here you can find comprehensive guides and FAQs on staking and accompanying topics. |
 | [MINA 101][site-minadocs] | Extensive list of questions and answers on the Mina Protocol. |
